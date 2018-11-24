@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "118785116598",
+    "firebase_url": "https://pastelito-store.firebaseio.com",
+    "project_id": "pastelito-store",
+    "storage_bucket": "pastelito-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118785116598:android:8352d3ba358b58c5",
+        "android_client_info": {
+          "package_name": "com.roman.cakescatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118785116598-ibge9a9kvvkmh9nio8mtfo1692ivhoot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjYhDwSDQgP7k6qULkZSgillOxqxZRMLU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
